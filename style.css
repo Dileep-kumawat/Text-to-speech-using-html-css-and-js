@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: #181A1B;
+    color: white;
+}
+main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 2rem;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+textarea{
+    color: white;
+    background: transparent;
+}
+button{
+    padding: 10px 20px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: gray;
+    font-weight: 600;
+}
+button:hover{
+    background-color: white;
+}
