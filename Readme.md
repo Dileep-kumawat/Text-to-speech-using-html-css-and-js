@@ -7,7 +7,7 @@ This app allows users to type or paste text and hear it spoken aloud using the b
 
 ## 🚀 Live Demo
 
-👉 **[View Live Project]()**  
+👉 **[View Live Project](https://dileep-kumawat.github.io/Text-to-speech-using-html-css-and-js/)**  
 
 ---
 
@@ -44,7 +44,7 @@ This app allows users to type or paste text and hear it spoken aloud using the b
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Dileep-kumawat/Text-to-speech-using-html-css-and-js.git
 
 2. Open the project folder:
 
